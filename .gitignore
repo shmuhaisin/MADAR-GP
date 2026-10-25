@@ -1,0 +1,43 @@
+
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.metadata
+**/.packages
+**/build/
+**/coverage/
+
+# Android / Gradle
+**/.gradle/
+**/android/.gradle/
+**/android/local.properties
+**/android/app/**/generated/
+**/android/app/**/intermediates/
+**/android/app/**/outputs/
+android/gradle/
+android/gradlew
+android/gradlew.bat
+
+# iOS / macOS
+**/Pods/
+**/DerivedData/
+
+# Node
+node_modules/
+package-lock.json
+package.json
+
+# Firebase & Google Services
+**/firebase-service-account.json
+**/google-services.json
+**/GoogleService-Info.plist
+
+# Build & cache
+**/build/
+**/.dart_tool/
+**/dist/
+
+# IDE
+**/.idea/
+**/*.iml
+**/.vscode/
